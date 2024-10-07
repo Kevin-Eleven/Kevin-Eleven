@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there 👋
+
+I'm **Haris**, an engineering student with a passion for exploring and mastering various technologies. 🚀
+
+### 🌱 Currently Learning:
+- **Full Stack Development:** Building web applications using the **MERN stack** (MongoDB, Express, React, Node.js).
+
+### 👨‍💻 Projects I'm working on:
+- **Full Stack Web Application:** Creating various small projects using the MERN stack to enhance my understanding of both front-end and back-end technologies.
+
+### 💡 What I’m Interested In:
+- Exploring new frameworks and libraries.
+- Deep-diving into the latest trends in technology and software development.
+- Building innovative solutions that can make an impact.
+- Learning about web security and web attacks.
+
+### 🔧 Technologies I’m familiar with:
+- **Frontend:** React, HTML, CSS, JavaScript, Tailwind
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **Tools:** Git, Vite, VSCode
+
+### 📫 Let's connect!
+- Feel free to reach out if you'd like to collaborate or just chat about tech!
+
+
