@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Kevin-Eleven/Kevin-Eleven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
