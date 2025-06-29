@@ -34,6 +34,14 @@ I'm **Haris**, an engineering student with a passion for exploring and mastering
 - **Database:** MongoDB
 - **Tools:** Git, Vite, VSCode
 
+## 📊 My GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin-eleven&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kevin-eleven&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-eleven&layout=compact&theme=radical)
+
 ### 📫 Let's connect!
 - Feel free to reach out if you'd like to collaborate or just chat about tech!
 
