@@ -23,30 +23,32 @@ I enjoy building practical systems that combine modern software engineering with
 
 Rather than focusing only on models, I enjoy understanding how complete systems are designed, deployed, scaled, and maintained. I spend most of my time building projects, studying system design, exploring modern AI architectures, and implementing ideas from research papers.
 
-```python
-class HarisAhmad:
-    def __init__(self):
-        self.role = "Software Engineer & AI Engineer"
-        self.education = "B.Tech ECE @ IIT Patna"
-        self.cgpa = 8.22
-        self.graduation_year = 2027
+```bash
+$ whoami
 
-        self.interests = [
-            "Agentic AI",
-            "Software Engineering",
-            "Machine Learning",
-            "Full-Stack Development",
-            "System Design"
-        ]
+Haris Ahmad
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-    def current_focus(self):
-        return {
-            "🤖": "Building Agentic RAG systems",
-            "📚": "Developing AI-powered Obsidian tools",
-            "🌐": "Creating scalable full-stack applications",
-            "⚙️": "Learning distributed systems and infrastructure",
-            "🧠": "Studying diffusion models and transformers"
-        }
+🎓 B.Tech ECE @ IIT Patna
+📈 CGPA: 8.22
+🏆 Codeforces Specialist (1490)
+🏅 Meta Hacker Cup Round 2 Qualifier
+
+$ current-focus
+
+→ Building Agentic RAG Systems
+→ Developing AI-powered Obsidian Plugins
+→ Learning Diffusion Models
+→ Studying Distributed Systems
+→ Exploring Modern AI Architectures
+
+$ interests
+
+AI Engineering
+Software Engineering
+Machine Learning
+System Design
+Full-Stack Development
 ```
 
 ---
@@ -151,37 +153,24 @@ Working with Linux, Docker, self-hosted services, networking, Tailscale, Samba, 
 
 ## 🏆 Highlights
 
-```yaml
-education:
-  institute: "Indian Institute of Technology Patna"
-  degree: "B.Tech Electronics & Communication Engineering"
-  cgpa: "8.22"
-  graduation: "2027"
-
-competitive_programming:
-  - "Codeforces Specialist (~1490 Rating)"
-  - "Meta Hacker Cup Round 2 Qualifier"
-
-focus_areas:
-  - "Agentic AI & Retrieval-Augmented Generation"
-  - "Software Engineering"
-  - "Full-Stack Development"
-  - "Machine Learning & Deep Learning"
-  - "System Design"
-  - "Distributed Systems"
-
-currently_learning:
-  - "Diffusion Models"
-  - "Transformer Architectures"
-  - "Agentic Workflows"
-  - "System Design"
-  - "Computer Networking"
-
-open_to:
-  - "Software Engineering Internships"
-  - "AI Engineering Internships"
-  - "Machine Learning Roles"
-  - "Research Opportunities"
+```mermaid
+mindmap
+  root((Haris Ahmad))
+    AI Engineering
+      Agentic RAG
+      LLM Systems
+      Obsidian AI
+    Software Engineering
+      Full Stack
+      System Design
+      Distributed Systems
+    Machine Learning
+      Diffusion Models
+      Transformers
+      PyTorch
+    Competitive Programming
+      Codeforces Specialist
+      Meta Hacker Cup
 ```
 
 ---
@@ -231,7 +220,7 @@ I'm always interested in discussing:
 
 <div align="center">
 
-<a href="https://linkedin.com/haris-ahmad-iitp">
+<a href="https://linkedin.com/in/haris-ahmad-iitp">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-4B5563?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
