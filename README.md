@@ -1,9 +1,5 @@
 <div align="center">
 
-> _"The best way to predict the future is to invent it."_
->
-> **— Alan Kay**
-
 # Hi, I'm Haris Ahmad
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&random=false&width=550&lines=Software+Engineer;AI+%26+Agent+Engineer;Full-Stack+Developer;Building+Intelligent+Systems" alt="Typing SVG" />
