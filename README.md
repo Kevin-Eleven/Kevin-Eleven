@@ -17,11 +17,11 @@
 
 ## About Me
 
-I'm a **B.Tech student in Electronics and Communication Engineering at IIT Patna** (CGPA: **8.22**, Class of **2027**) with a strong interest in **Software Engineering, AI Systems, Agentic Workflows, and Machine Learning**.
+I'm a **B.Tech student in Electronics and Communication Engineering at IIT Patna** with a strong interest in **Software Engineering, AI Systems, Agentic Workflows, and Machine Learning**.
 
 I enjoy building practical systems that combine modern software engineering with artificial intelligence. My interests span full-stack development, retrieval systems, LLM applications, deep learning, distributed systems, and infrastructure.
 
-Rather than focusing only on models, I enjoy understanding how complete systems are designed, deployed, scaled, and maintained. I spend most of my time building projects, studying system design, exploring modern AI architectures, and implementing ideas from research papers.
+Rather than focusing only on models, I enjoy understanding how complete systems are designed, deployed, scaled, and maintained.
 
 ```bash
 $ whoami
@@ -30,9 +30,6 @@ Haris Ahmad
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🎓 B.Tech ECE @ IIT Patna
-📈 CGPA: 8.22
-🏆 Codeforces Specialist (1490)
-🏅 Meta Hacker Cup Round 2 Qualifier
 
 $ current-focus
 
