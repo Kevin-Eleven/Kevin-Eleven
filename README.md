@@ -6,7 +6,7 @@
 
 ### Building AI systems, agentic workflows, and scalable software
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-4B5563?style=for-the-badge&logo=googlechrome&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-4B5563?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kevin-eleven.github.io/terminal-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/haris-ahmad-iitp)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harisahmad200411@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/10iF1cb92SbmkhpqCf2QhdbeI-quvIe67/view)
