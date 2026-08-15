@@ -171,7 +171,19 @@ mindmap
 ```
 
 ---
+---
 
+## Recognition
+
+<div align="center">
+
+<a href="https://cloud.layer5.io/user/ee4c7125-c146-48bb-a0ea-5042ccf8f820?tab=badges&badge=first-design" alt="First Design"><img width="120px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a>
+
+<sub>CNCF Meshery — First Design</sub>
+
+</div>
+
+---
 ## Featured Projects
 
 <div align="center">
@@ -231,6 +243,6 @@ I'm always interested in discussing:
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kevin-eleven&color=6B7280&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=haris-a11&color=6B7280&style=flat-square&label=Profile+Views)
 
 </div>
