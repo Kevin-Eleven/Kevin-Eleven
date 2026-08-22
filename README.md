@@ -134,7 +134,9 @@ mindmap
 </a>
 
 </div>
+
 ---
+
 ## Featured Projects
 
 <div align="center">
